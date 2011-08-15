@@ -1,1 +1,2 @@
+require "test_notifier/runner/autotest"
 require "test_notifier/autotest"
